@@ -109,11 +109,11 @@ function home(props) {
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
-              <Chart2/>
+              
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
-              <Chart3/>
+              
               </GridItem>
               
             </GridContainer>
