@@ -105,7 +105,6 @@ function home(props) {
         <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
               <GridItem xs={12} sm={12} md={4}>
                 <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
-                <Chart/>
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
@@ -117,6 +116,14 @@ function home(props) {
               </GridItem>
               
             </GridContainer>
+        </div>
+        <div style={{width:"100%", marginTop:'20px'}}>
+        <div id="roadmap" className={classes.container} style={{paddingTop:"50px"}} >
+          <h2 style={{fontWeight:"bold", textAlign:"center"}}>Roadmap</h2>
+          <h4 style={{textAlign:"center"}}>This timeline details our development goals.</h4>
+        <Timeline />
+        </div>
+
         </div>
       </div>
       
