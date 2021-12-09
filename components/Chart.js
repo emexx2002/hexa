@@ -29,6 +29,6 @@ ChartJS.register(ArcElement, Tooltip, Legend);
   ],
 };
 
-export default function Chart() {
+export function Chart() {
   return <Doughnut data={data} />;
 }
