@@ -62,6 +62,45 @@ function home(props) {
         
         </div>
       </Parallax>
+      <div className={classNames(classes.main)} style={{backgroundColor:"#050510", paddingTop:"65px", color:"white"}}>
+          <div className={classes.container}>
+            <GridContainer justify="center">
+              <GridItem xs={12} sm={12} md={6}>
+                <img src="img/block.png" style={{width:"70%", height:"auto"}} />
+              </GridItem>
+              <GridItem xs={12} sm={12} md={6}>
+                
+                <div className={classes.container} style={{paddingTop:"45px"}}>
+                  <div className="animate__animated animate__bounce">
+                  <h1 className={classes.title} style={{ fontSize:"6.5vh"}}>
+                    About Hexa 
+                    </h1>
+                    <p>
+                    Hexa is a new competitor in the GameFi space, built around gaming, with aims to better enhance the synergy between gaming and cryptocurrency.
+                    </p>
+                    <h4>Here is what we offer</h4>
+                    - Online gaming facilities, fitted with play-to-earn functionalities.<br/>
+                    - Telegram group gaming contests.<br/>
+                    - Worldwide Xbox and Play Station gaming contests.<br/>
+                    - An NFT marketplace.<br/>
+                    - Establishment of arcades accepting crypto payments.<br/>
+                    - Launchpad for gaming projects
+
+
+                  </div>
+ 
+                    
+  
+                    
+
+                </div>
+              </GridItem>
+              
+            </GridContainer>
+            
+            
+        </div>
+      </div>
       
       <SectionDownload   />
       <Footer/>
