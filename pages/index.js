@@ -15,7 +15,7 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Button from "components/CustomButtons/Button.js";
 import Parallax from "components/Parallax/Parallax.js";
-import Chart from "components/Chart.tsx";
+import Chart from "components/Chart";
 import Chart2 from "components/Chart2.js";
 import Chart3 from "components/Chart3.js";
 import Timeline from "components/Timeline.js";
