@@ -100,6 +100,24 @@ function home(props) {
             
             
         </div>
+                <div className={classes.container} id="token" style={{paddingTop:"50px"}}>
+          <h2 style={{fontWeight:"bold", textAlign:"center"}}>Tokenomics And Allocation</h2>
+        <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
+              <GridItem xs={12} sm={12} md={4}>
+                <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
+                <Chart/>
+              </GridItem>
+              <GridItem xs={12} sm={12} md={4}>
+              <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
+              <Chart2/>
+              </GridItem>
+              <GridItem xs={12} sm={12} md={4}>
+              <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
+              <Chart3/>
+              </GridItem>
+              
+            </GridContainer>
+        </div>
       </div>
       
       <SectionDownload   />
