@@ -107,15 +107,15 @@ function index(props) {
         <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
               <GridItem xs={12} sm={12} md={4}>
                 <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
-                <Chart/>
+                <img src="img/chart1.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
-              <Chart2/>
+              <img src="img/chart2.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
-              <Chart3/>
+              <img src="img/chart3.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               
             </GridContainer>
