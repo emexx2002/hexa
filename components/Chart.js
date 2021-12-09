@@ -4,7 +4,10 @@ import { Doughnut } from 'react-chartjs-2';
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
- const data = {
+ 
+
+export default function Chart() {
+const data = {
   labels: ['Airdrop 40%', 'Public presale 10%', 'Initial Liquidity 30%', 'Community 20%',],
   datasets: [
     {
@@ -28,7 +31,5 @@ ChartJS.register(ArcElement, Tooltip, Legend);
     },
   ],
 };
-
-export function Chart() {
-  return <Doughnut data={data} />;
+  return (<Doughnut data={data} />);
 }
