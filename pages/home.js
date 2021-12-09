@@ -14,7 +14,7 @@ import GridItem from "components/Grid/GridItem.js";
 import Button from "components/CustomButtons/Button.js";
 import Parallax from "components/Parallax/Parallax.js";
 import Chart from "components/Chart.js";
-import Chart2 from "components/Chart2.js";
+import Chart2 from "components/Chart2.tsx";
 import Chart3 from "components/Chart3.js";
 import Timeline from "components/Timeline.js";
 import SectionDownload from "pages-sections/Components-Sections/SectionDownload.js";
