@@ -211,3 +211,32 @@ html {
 .collapsible-card-edonec:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
+
+.scon {
+    width: 42%;
+    background-color: rgba(255, 255, 255, 0.034);
+    min-height: 400;
+
+}
+
+.sidebar {
+    padding: 20px;
+}
+
+.doc-nav-list li {
+    list-style: none;
+    margin-bottom: 20px !important;
+    color: "white" !important;
+}
+
+.doc-nav-list li a {
+    text-decoration: none;
+    color: "white" !important;
+    text-decoration-color: white;
+}
+
+@media only screen and (max-width: 956px) {
+    .scon {
+        display: none
+    }
+}

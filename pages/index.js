@@ -115,7 +115,7 @@ function index(props) {
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
-              <img src="img/chart3.png" style={{width:"95%", height:"auto"}}/>
+              <img src="img/chart3.png" style={{width:"97%", height:"auto"}}/>
               </GridItem>
               
             </GridContainer>

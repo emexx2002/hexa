@@ -12,6 +12,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import Favorite from "@material-ui/icons/Favorite";
 
 import styles from "styles/jss/nextjs-material-kit/components/footerStyle.js";
+import logo from '../../public/img/logo.png'
 
 const useStyles = makeStyles(styles);
 
@@ -37,7 +38,7 @@ export default function Footer(props) {
                 className={classes.block}
                 target="_blank"
               >
-               <img src="./img/logo.png" style={{height:50, width:50}} />
+               <img src={logo} style={{height:50, width:50}} />
               </a>
             </ListItem>
             <ListItem className={classes.inlineBlock}>
