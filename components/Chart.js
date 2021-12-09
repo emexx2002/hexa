@@ -29,7 +29,7 @@ const data = {
       ],
       borderWidth: 1,
     },
-  ],
+  ], 
 };
   return (<Doughnut data={data} />);
 }
