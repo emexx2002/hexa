@@ -1,8 +1,8 @@
 import React from 'react';
-import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
+//import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Doughnut } from 'react-chartjs-2';
 
-ChartJS.register(ArcElement, Tooltip, Legend);
+//ChartJS.register(ArcElement, Tooltip, Legend);
 
  const data = {
   labels: ['Liquidity 65%', 'Staking Pool 20%', 'Project Development 10%', 'Marketing 5%', ],

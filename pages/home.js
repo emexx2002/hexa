@@ -3,11 +3,9 @@ import React from "react";
 import classNames from "classnames";
 // react components for routing our app without refresh
 import Link from "next/link";
-// @material-ui/core components
+
 import { makeStyles } from "@material-ui/core/styles";
 import ScrollAnimation from 'react-animate-on-scroll';
-// @material-ui/icons
-// core components
 import Header from "components/Header/Header.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import Footer from "components/Footer/Footer.js";
@@ -15,7 +13,7 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Button from "components/CustomButtons/Button.js";
 import Parallax from "components/Parallax/Parallax.js";
-import Chart from "components/Chart.js";
+import Chart from "components/Chart";
 import Chart2 from "components/Chart2.js";
 import Chart3 from "components/Chart3.js";
 import Timeline from "components/Timeline.js";
@@ -102,20 +100,19 @@ function home(props) {
             
             
         </div>
-        <div className={classes.container} id="token" style={{paddingTop:"50px"}}>
+                <div className={classes.container} id="token" style={{paddingTop:"50px"}}>
           <h2 style={{fontWeight:"bold", textAlign:"center"}}>Tokenomics And Allocation</h2>
         <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
               <GridItem xs={12} sm={12} md={4}>
                 <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
-                <Chart/>
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
-              <Chart2/>
+              <Chart/>
               </GridItem>
               <GridItem xs={12} sm={12} md={4}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
-              <Chart3/>
+              
               </GridItem>
               
             </GridContainer>
@@ -128,10 +125,8 @@ function home(props) {
         </div>
 
         </div>
-        
-           
-
       </div>
+      
       <SectionDownload   />
       <Footer/>
     </div>
