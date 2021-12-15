@@ -68,7 +68,7 @@ function index(props) {
                 <Collapsible  header="What are the taxes on transactions?">
                 Every buy/sell has a 12% transaction tax.
                 4% goes to automatically feed the liquidity pool.
-                3% goes to HEXA reflections to all HEXA holders.
+                3% goes to Blue orb reflections to all Blue orb holders.
                 5% goes to the marketing and development wallet.
                 </Collapsible>
             

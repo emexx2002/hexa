@@ -62,10 +62,10 @@ export default function gamingecosystem(props) {
               </div>
                  
               <div className={classes.container}>
-                 <h2 style={{fontWeight:"bold",}}>THE HEXA GAMING ECOSYSTEM </h2>
+                 <h2 style={{fontWeight:"bold",}}>THE Blue orb GAMING ECOSYSTEM </h2>
                  <p>For more efficient project management, 
-                     we have precisely divided the Hexa project into bits, basically,
-                      members of a larger ecosystem, in which each part has its clear role and which together, through local software communications and tools, form one highly functional unit, supervised by team Hexa. Over time, as the project progresses, problems that may exist will be found and fixed, actively monitoring each part separately, improving existing solutions as well as developing new and innovative solutions.
+                     we have precisely divided the Blue orb project into bits, basically,
+                      members of a larger ecosystem, in which each part has its clear role and which together, through local software communications and tools, form one highly functional unit, supervised by team Blue orb. Over time, as the project progresses, problems that may exist will be found and fixed, actively monitoring each part separately, improving existing solutions as well as developing new and innovative solutions.
                     </p>
 
                     <h4>Gaming is what we're about;</h4>
@@ -74,7 +74,7 @@ export default function gamingecosystem(props) {
                     <h3 style={{fontWeight:"bold",}}>Our ecosystem comprises;</h3>
                     <p>
                     - Community<br/>
-                    - Hexa token<br/>
+                    - Blue orb token<br/>
                     - NFT store<br/>
                     - Slippage-free DEX<br/>
                     - Gaming<br/>
@@ -84,7 +84,7 @@ export default function gamingecosystem(props) {
                     
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
-                      <a href="/whitePaper/how-it-works">How Hexa Works</a>
+                      <a href="/whitePaper/how-it-works">How Blue orb Works</a>
                       <a href="/whitePaper/our-economy">Our Economy</a>
 
                     </div>

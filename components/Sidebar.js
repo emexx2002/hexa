@@ -19,9 +19,9 @@ export default function Sidebar() {
         <ul className="doc-nav-list">
             <li ><a href="/whitePaper/introduction" aria-current="page">Introduction</a></li>
             <li ><a href="/whitePaper/how-it-works">How Hexa Works</a></li>
-            <li ><a href="/whitePaper/gaming-ecosystem">The Hexa Gaming Ecosystem</a></li>
+            <li ><a href="/whitePaper/gaming-ecosystem">The Blue Orb Gaming Ecosystem</a></li>
             <li ><a href="/whitePaper/our-economy">Our Economy</a></li>
-            <li ><a href="/whitePaper/hexanomics">Hexanomics</a></li>
+            <li ><a href="/whitePaper/blueorb-nomics">Blue Orb nomics</a></li>
             <li ><a href="/whitePaper/ico">ICO</a></li>
             <li ><a href="/whitePaper/liquidity-pool">Liquidity Pool</a></li>
             <li ><a href="/whitePaper/partnership">Partnerships</a></li>

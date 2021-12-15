@@ -12,7 +12,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import Favorite from "@material-ui/icons/Favorite";
 
 import styles from "styles/jss/nextjs-material-kit/components/footerStyle.js";
-import logo from '../../public/img/logo.png'
+import logo from '../../public/img/dre.png'
 
 const useStyles = makeStyles(styles);
 
@@ -78,7 +78,7 @@ export default function Footer(props) {
             className={aClasses}
             target="_blank"
           >
-           Hexa Team
+           Blue orb Team
           </a>{" "}
           for a better web.
         </div>

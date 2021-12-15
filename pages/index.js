@@ -49,9 +49,9 @@ function index(props) {
         <GridContainer>
             <GridItem xs={12} sm={12} md={9}>
             <div className={classes.brand}>
-                <h1 className={classes.title} style={{fontSize:"7.8vh"}}>Hexa Gaming</h1>
+                <h1 className={classes.title} style={{fontSize:"7.8vh"}}>Blue orb Gaming</h1>
                 <h4 >
-                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences, Hexa is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
+                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences, Blue orb is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
                 for not winning here
                 </h4>
                 
@@ -65,28 +65,30 @@ function index(props) {
         </div>
       </Parallax>
       <div className={classNames(classes.main)} style={{backgroundColor:"#050510", paddingTop:"65px", color:"white"}}>
-          <div className={classes.container}>
+          <div  id="about" className={classes.container}>
             <GridContainer justify="center">
               <GridItem xs={12} sm={12} md={6}>
-                <img src="img/block.png" style={{width:"70%", height:"auto"}} />
+                <img src="img/blue.jpeg" style={{width:"70%", height:"auto", opacity:0.7}} />
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>
                 
                 <div className={classes.container} style={{paddingTop:"45px"}}>
                   <div className="animate__animated animate__bounce">
                   <h1 className={classes.title} style={{ fontSize:"6.5vh"}}>
-                    About Hexa 
+                    About Blue orb 
                     </h1>
                     <p>
-                    Hexa is a new competitor in the GameFi space, built around gaming, with aims to better enhance the synergy between gaming and cryptocurrency.
+                    Blue orb is a new challenger in the GameFi BSc space,  with aims to better enhance the present synergy between gaming and cryptocurrency.
                     </p>
-                    <h4>Here is what we offer</h4>
+                    <h4>Blue orb brings the following to the table;</h4>
                     - Online gaming facilities, fitted with play-to-earn functionalities.<br/>
                     - Telegram group gaming contests.<br/>
                     - Worldwide Xbox and Play Station gaming contests.<br/>
                     - An NFT marketplace.<br/>
+                    - Slippage-free DEX<br/>
                     - Establishment of arcades accepting crypto payments.<br/>
-                    - Launchpad for gaming projects
+                    - Launchpad for gaming projects.<br/>
+                    - Game-dev-pad for game developers to build games in the Blue orb ecosystem.
 
 
                   </div>
@@ -103,19 +105,20 @@ function index(props) {
             
         </div>
         <div className={classes.container} id="token" style={{paddingTop:"50px"}}>
-          <h2 style={{fontWeight:"bold", textAlign:"center"}}>Tokenomics And Allocation</h2>
+          <h2 style={{fontWeight:"bold", textAlign:"center"}}>The Blue orb Economy</h2>
         <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
-              <GridItem xs={12} sm={12} md={4}>
-                <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
-                <img src="img/chart1.png" style={{width:"95%", height:"auto"}}/>
-              </GridItem>
-              <GridItem xs={12} sm={12} md={4}>
+              
+              <GridItem xs={12} sm={12} md={6}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>presale fund allocation</h3>
               <img src="img/chart2.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
-              <GridItem xs={12} sm={12} md={4}>
+              <GridItem xs={12} sm={12} md={6}>
               <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
               <img src="img/chart3.png" style={{width:"97%", height:"auto"}}/>
+              </GridItem>
+              <GridItem xs={12} sm={12} md={6}>
+                <h3 style={{fontWeight:"bold", textAlign:"center"}}>Token Distribution</h3>
+                <img src="img/chart1.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               
             </GridContainer>

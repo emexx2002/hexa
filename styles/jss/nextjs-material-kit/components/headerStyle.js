@@ -1,3 +1,4 @@
+import { BorderBottom } from "@material-ui/icons";
 import {
   container,
   hexToRGBAlpha,
@@ -22,7 +23,7 @@ const headerStyle = {
     marginBottom: "20px",
     color: "#555",
     width: "100%",
-    backgroundColor: "#fff",
+    backgroundColor: "#050510",
     boxShadow:
       "0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15)",
     transition: "all 150ms ease 0s",
@@ -144,6 +145,7 @@ const headerStyle = {
     transitionProperty: "top, bottom, width",
     transitionDuration: ".2s, .2s, .35s",
     transitionTimingFunction: "linear, linear, ease",
+    backgroundColor: "#050510",
     width: drawerWidth,
     ...boxShadow,
     position: "fixed",
@@ -159,6 +161,8 @@ const headerStyle = {
     paddingRight: "0px",
     paddingLeft: "0",
     ...transition,
+    color:"white",
+    borderBottom:"none"
   },
 };
 

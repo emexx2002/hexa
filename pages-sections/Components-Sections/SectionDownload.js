@@ -21,16 +21,10 @@ export default function SectionDownload() {
           <GridContainer justify="center">
             <h3>Thank you for supporting us!</h3>
           </GridContainer>
-          <Button color="twitter">
+          <Button  href="https://twitter.com/BlueOrbtwit" color="twitter">
             <i className={classes.socials + " fab fa-twitter"} /> Twitter
           </Button>
-          <Button color="facebook">
-            <i className={classes.socials + " fab fa-facebook-square"} /> Facebook
-          </Button>
-          <Button color="github">
-            <i className={classes.socials + " fab fa-discord"} />Discord
-          </Button>
-          <Button color="telegram">
+          <Button  href="http://t.me/BlueOrbOfficial" color="telegram">
             <i className={classes.socials + " fab fa-telegram"} />
            Telegram
           </Button>

@@ -16,7 +16,7 @@ import Drawer from "@material-ui/core/Drawer";
 import Menu from "@material-ui/icons/Menu";
 // core components
 import styles from "styles/jss/nextjs-material-kit/components/headerStyle.js";
-import logo from '../../public/img/logo.png'
+import logo from '../../public/img/dre.png'
 
 const useStyles = makeStyles(styles);
 
@@ -64,7 +64,7 @@ export default function Header(props) {
   });
   const brandComponent = (
     <Link href="/" as="/">
-      <img src={logo} style={{height:50, width:50}} />
+      <img src={logo} style={{height:80, width:80}} />
     </Link>
   );
   return (
@@ -102,6 +102,7 @@ export default function Header(props) {
             paper: classes.drawerPaper,
           }}
           onClose={handleDrawerToggle}
+          
         >
           <div className={classes.appResponsive}>
             {leftLinks}

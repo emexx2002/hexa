@@ -24,7 +24,7 @@ const useStyles = makeStyles(styles);
 
 
 
-export default function introduction(props) {
+export default function conclusion(props) {
     const classes = useStyles();
   const { ...rest } = props;
   return (
@@ -62,37 +62,23 @@ export default function introduction(props) {
               </div>
                  
               <div className={classes.container}>
-                 <h2 style={{fontWeight:"bold",}}>INTRODUCTION </h2>
+                 <h2 style={{fontWeight:"bold",}}>CONCLUSION</h2>
+                 <p> 
+                 Our project is really unlike anything the crypto space has ever seen. Right from our exquisite token economy, developed by a very experienced, energetic, and transparent team, 
+                 to our functional utilities and strategic partnerships. </p><br/>
+                                    
+                 <p>
+                 Telegram gaming, followed by NFT-rewarding games and contests in the near future, as well as crazy marketing models, supported by organic funds, generated from our loving community, 
+                 as.well as revenue from usage of our services.
+                 </p>
+                 <p>A Staking Pool (still in the developmental stage) will also enable additional passive income for people who have given a chance and believe in this outstanding concept.</p>
 
-                    <h4> Blue orb is a new challenger in the GameFi BSC space, offering;</h4>
+                
+                    
 
-                    <p>- Online gaming facilities, fitted with play-to-earn functionalities.<br/>
-
-                    - Telegram group gaming contests.<br/>
-
-                    - Worldwide Xbox and Play Station gaming contests.<br/>
-
-                    - A custom NFT store.<br/>
-
-                    - A slippage-free DEX.<br/>
-
-                    - Establishment of arcades and partnering with arcades that accept crypto payments.<br/>
-
-                    - A launchpad for gaming projects.<br/>
-
-                    - A game-dev-pad for game developers to build games in the Blue orb ecosystem.<br/><br/>
-
-
-                    We aim to take playing games, investments and adoption of crypto currency to a much better place.
-
-                    People want to make money, people want to have fun, at Blue orb, we're bringing both, and on one plate!
-
-                    Gaming has honestly, never been easier and financially tempting as it is now, we plan on capitalizing on that for the benefit of all community members from anywhere and at any time.
-
-                    Blue orb tokens, held and traded with, by community members, in personal wallets and on our gaming app will ensure a healthy growth rate and pave a stable path for our project.</p>
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
-                      <a></a>
-                      <a href="/whitePaper/how-it-works">How it works</a>
+                      <a href="/whitePaper/partnerships">partnerships</a>
+                      <a href="/whitePaper/disclaimer">Disclaimer</a>
 
                     </div>
                                   

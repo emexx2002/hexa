@@ -36,29 +36,15 @@ export default function HeaderLinks(props) {
         </Button>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <CustomDropdown
-          noLiPadding
-          navDropdown
-          buttonText="About"
-          buttonProps={{
-            className: classes.navLink,
-            color: "transparent",
-          }}
-         
-          dropdownList={[
-            <Link href="/components">
-              <a className={classes.dropdownLink}>About Team</a>
-            </Link>,
-            <a
-              href="https://creativetimofficial.github.io/nextjs-material-kit/#/documentation?ref=njsmk-navbar"
-              target="_blank"
-              className={classes.dropdownLink}
-            >
-              Documentation
-            </a>,
-          ]}
-        />
+        <Button
+          href="#about"
+          color="transparent"        
+          className={classes.navLink}
+        >
+         About
+        </Button>
       </ListItem>
+      
       <ListItem className={classes.listItem}>
         <Button
           href="#roadmap"

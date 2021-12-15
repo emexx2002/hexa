@@ -24,7 +24,7 @@ const useStyles = makeStyles(styles);
 
 
 
-export default function introduction(props) {
+export default function conclusion(props) {
     const classes = useStyles();
   const { ...rest } = props;
   return (
@@ -62,37 +62,31 @@ export default function introduction(props) {
               </div>
                  
               <div className={classes.container}>
-                 <h2 style={{fontWeight:"bold",}}>INTRODUCTION </h2>
+                 <h2 style={{fontWeight:"bold",}}>DISCLAIMER</h2>
+                 <p> 
+                    The information provided in this white paper and website, does not recommend participation in token presale and is not investment advice,
+                    financial advice, trading advice, or any other sort of advice, and you should not treat any of the white paper’s content as such.
+                 </p><br/>
+                 <p> 
+                 By participating in this presale, or any future Blue orb token transaction, the investor should accept the security risks and potential financial losses, 
+                 and Blue orb Gaming cannot be held responsible. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
+                 </p><br/>
+                 <p> 
+                 If you reside in a location where blockchain or gaming over the Internet is illegal, please do not click on anything related to these activities on this project. 
+                 You must be legal age to click on any gaming related items. Minimum age varies from region to region.
+                 </p><br/>
+                                    
+                 <p>
+                 Recognizing that the laws and regulations involving online gaming are different everywhere, 
+                 players are advised to check with the laws that exist within their own jurisdiction or region to ascertain the legality of the activities which are covered. No other rights are transferred to the token holders. The Blue orb Gaming’s sole responsibility is to distribute the Blue orb tokens under the conditions set out in the white paper.
+                 </p>
+                
+                
+                    
 
-                    <h4> Blue orb is a new challenger in the GameFi BSC space, offering;</h4>
-
-                    <p>- Online gaming facilities, fitted with play-to-earn functionalities.<br/>
-
-                    - Telegram group gaming contests.<br/>
-
-                    - Worldwide Xbox and Play Station gaming contests.<br/>
-
-                    - A custom NFT store.<br/>
-
-                    - A slippage-free DEX.<br/>
-
-                    - Establishment of arcades and partnering with arcades that accept crypto payments.<br/>
-
-                    - A launchpad for gaming projects.<br/>
-
-                    - A game-dev-pad for game developers to build games in the Blue orb ecosystem.<br/><br/>
-
-
-                    We aim to take playing games, investments and adoption of crypto currency to a much better place.
-
-                    People want to make money, people want to have fun, at Blue orb, we're bringing both, and on one plate!
-
-                    Gaming has honestly, never been easier and financially tempting as it is now, we plan on capitalizing on that for the benefit of all community members from anywhere and at any time.
-
-                    Blue orb tokens, held and traded with, by community members, in personal wallets and on our gaming app will ensure a healthy growth rate and pave a stable path for our project.</p>
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
+                      <a href="/whitePaper/conclusion">Conclusion</a>
                       <a></a>
-                      <a href="/whitePaper/how-it-works">How it works</a>
 
                     </div>
                                   

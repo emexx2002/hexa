@@ -24,7 +24,7 @@ const useStyles = makeStyles(styles);
 
 
 
-export default function oureconomy(props) {
+export default function blueorbnomics(props) {
     const classes = useStyles();
   const { ...rest } = props;
   return (
@@ -62,7 +62,18 @@ export default function oureconomy(props) {
               </div>
                  
               <div className={classes.container}>
-                 <h2 style={{fontWeight:"bold",}}>OUR ECONOMY </h2>
+                 <h2 style={{fontWeight:"bold",}}>Blue Orb nomics</h2>
+                     
+                     <h3 style={{fontWeight:"bold",}}>Token Distribution</h3>
+                     <p>
+                         - Airdrop 10% (5,000,000ORB)<br/>
+                         - Private sale 0.3% (150,000ORB)<br/>
+                         - Consultation 1.7% (8,500,000ORB)<br/>
+                         - Presale 30% (15,000,000ORB)<br/>
+                         - CEX listing 20% (10,000,000ORB)<br/>
+                         - Marketing Wallet 3% (1,500,000ORB)<br/>
+                         - DEX liquidity pool 25% (12,500,000ORB)
+                     </p>
                 
                     <h3 style={{fontWeight:"bold",}}>Transaction Fees </h3>
                     <h4>The purchase, sale and transfer of Blue orb tokens has a 12% fee, with the following distribution:</h4>
@@ -92,8 +103,8 @@ export default function oureconomy(props) {
                     
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
-                      <a href="/whitePaper/gaming-ecosystem">The Blue orb Gaming Ecosystem</a>
-                      <a href="/whitePaper/hexanomis">Hexanomics</a>
+                      <a href="/whitePaper/our-economy">Our Economy</a>
+                      <a href="/whitePaper/ico">ICO</a>
 
                     </div>
                                   
