@@ -74,7 +74,7 @@ export default function Footer(props) {
           &copy; {1900 + new Date().getYear()} , made with{" "}
           <Favorite className={classes.icon} /> by{" "}
           <a
-            href="https://www.creative-tim.com?ref=njsmk-footer"
+            href="https://twitter.com/BlueOrbtwit"
             className={aClasses}
             target="_blank"
           >
