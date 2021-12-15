@@ -68,7 +68,7 @@ function index(props) {
           <div  id="about" className={classes.container}>
             <GridContainer justify="center">
               <GridItem xs={12} sm={12} md={6}>
-                <img src="img/blue.jpeg" style={{width:"70%", height:"auto", opacity:0.7}} />
+                <img src="img/block.png" style={{width:"70%", height:"auto"}} />
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>
                 
