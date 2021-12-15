@@ -23,7 +23,7 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <title>Blue orb</title>
+          <title>Blue Orb</title>
         </Head>
         <Component {...pageProps} />
       </React.Fragment>

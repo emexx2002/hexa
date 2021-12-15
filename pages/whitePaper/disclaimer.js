@@ -68,8 +68,8 @@ export default function conclusion(props) {
                     financial advice, trading advice, or any other sort of advice, and you should not treat any of the white paper’s content as such.
                  </p><br/>
                  <p> 
-                 By participating in this presale, or any future Blue orb token transaction, the investor should accept the security risks and potential financial losses, 
-                 and Blue orb Gaming cannot be held responsible. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
+                 By participating in this presale, or any future Blue Orb token transaction, the investor should accept the security risks and potential financial losses, 
+                 and Blue Orb Gaming cannot be held responsible. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
                  </p><br/>
                  <p> 
                  If you reside in a location where blockchain or gaming over the Internet is illegal, please do not click on anything related to these activities on this project. 
@@ -78,7 +78,7 @@ export default function conclusion(props) {
                                     
                  <p>
                  Recognizing that the laws and regulations involving online gaming are different everywhere, 
-                 players are advised to check with the laws that exist within their own jurisdiction or region to ascertain the legality of the activities which are covered. No other rights are transferred to the token holders. The Blue orb Gaming’s sole responsibility is to distribute the Blue orb tokens under the conditions set out in the white paper.
+                 players are advised to check with the laws that exist within their own jurisdiction or region to ascertain the legality of the activities which are covered. No other rights are transferred to the token holders. The Blue Orb Gaming’s sole responsibility is to distribute the Blue Orb tokens under the conditions set out in the white paper.
                  </p>
                 
                 

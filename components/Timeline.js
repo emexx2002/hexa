@@ -24,7 +24,7 @@ export default function Timeline() {
           <div className="timeline-content">
             <h3 className="date">Phase 3</h3>
             <h1>Getting The Community Involved</h1>
-            <p>Finalizing of plans and commencement of the HEXA airdrop.</p>
+            <p>Finalizing of plans and commencement of the Blue Orb airdrop.</p>
           </div>
         </li>
         <li>

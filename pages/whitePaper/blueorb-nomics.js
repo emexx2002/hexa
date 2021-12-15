@@ -76,18 +76,18 @@ export default function blueorbnomics(props) {
                      </p>
                 
                     <h3 style={{fontWeight:"bold",}}>Transaction Fees </h3>
-                    <h4>The purchase, sale and transfer of Blue orb tokens has a 12% fee, with the following distribution:</h4>
+                    <h4>The purchase, sale and transfer of Blue Orb tokens has a 12% fee, with the following distribution:</h4>
                         <p>
                         - 4% fee goes to feeds the pancakeswap Liquidity Pool.<br/>
-                        - 3% fee is sent to Blue orb token holders in the form of Blue orb reflections,<br/>
-                        - 5% fee is sent to the Blue orb Staking Pool, after converting to CAKE or any other staking pool native tokens.<br/>
+                        - 3% fee is sent to Blue Orb token holders in the form of Blue Orb reflections,<br/>
+                        - 5% fee is sent to the Blue Orb Staking Pool, after converting to CAKE or any other staking pool native tokens.<br/>
                                                     
                         </p>
                     <h3 style={{fontWeight:"bold",}}>Staking Pool Reward Distribution </h3>
                     <h4>Each Staking Pool harvest is allocated to the following partitions:
                         35% of rewards are sent according to the following priorities:</h4>
                         <p>
-                        - 5% of rewards are sent to token holders, in the form of Blue orb reflections.<br/>
+                        - 5% of rewards are sent to token holders, in the form of Blue Orb reflections.<br/>
                         - 10% of rewards are sent for the needs of the development and marketing of the project.<br/>
                         - 20% of the reward is reinvested in the Staking Pool.<br/>
                                                     
@@ -95,7 +95,7 @@ export default function blueorbnomics(props) {
                         <h3 style={{fontWeight:"bold",}}>Gaming Proceeds </h3>
                     <h4>Proceeds generated from fees to enter the gaming contests, partnership deals with arcades and revenue from our own arcade establishments shall be distributed in the following manner:</h4>
                         <p>
-                        - 20% of rewards are sent to token holders, in the form of Blue orb reflections<br/>
+                        - 20% of rewards are sent to token holders, in the form of Blue Orb reflections<br/>
                         - 60% of rewards are sent for the needs of the development and marketing of the project.<br/>
                         - 20% of the reward is reinvested in the Staking Pool.<br/>
                                                     

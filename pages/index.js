@@ -49,9 +49,9 @@ function index(props) {
         <GridContainer>
             <GridItem xs={12} sm={12} md={9}>
             <div className={classes.brand}>
-                <h1 className={classes.title} style={{fontSize:"7.8vh"}}>Blue orb Gaming</h1>
+                <h1 className={classes.title} style={{fontSize:"7.8vh"}}>Blue Orb Gaming</h1>
                 <h4 >
-                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences, Blue orb is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
+                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences, Blue Orb is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
                 for not winning here
                 </h4>
                 
@@ -75,12 +75,12 @@ function index(props) {
                 <div className={classes.container} style={{paddingTop:"45px"}}>
                   <div className="animate__animated animate__bounce">
                   <h1 className={classes.title} style={{ fontSize:"6.5vh"}}>
-                    About Blue orb 
+                    About Blue Orb 
                     </h1>
                     <p>
-                    Blue orb is a new challenger in the GameFi BSc space,  with aims to better enhance the present synergy between gaming and cryptocurrency.
+                    Blue Orb is a new challenger in the GameFi BSc space,  with aims to better enhance the present synergy between gaming and cryptocurrency.
                     </p>
-                    <h4>Blue orb brings the following to the table;</h4>
+                    <h4>Blue Orb brings the following to the table;</h4>
                     - Online gaming facilities, fitted with play-to-earn functionalities.<br/>
                     - Telegram group gaming contests.<br/>
                     - Worldwide Xbox and Play Station gaming contests.<br/>
@@ -88,7 +88,7 @@ function index(props) {
                     - Slippage-free DEX<br/>
                     - Establishment of arcades accepting crypto payments.<br/>
                     - Launchpad for gaming projects.<br/>
-                    - Game-dev-pad for game developers to build games in the Blue orb ecosystem.
+                    - Game-dev-pad for game developers to build games in the Blue Orb ecosystem.
 
 
                   </div>
@@ -105,7 +105,7 @@ function index(props) {
             
         </div>
         <div className={classes.container} id="token" style={{paddingTop:"50px"}}>
-          <h2 style={{fontWeight:"bold", textAlign:"center"}}>The Blue orb Economy</h2>
+          <h2 style={{fontWeight:"bold", textAlign:"center"}}>The Blue Orb Economy</h2>
         <GridContainer justify="center" style={{paddingTop:30, paddingBottom:30}}>
               
               <GridItem xs={12} sm={12} md={6}>
@@ -113,7 +113,7 @@ function index(props) {
               <img src="img/chart2.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>
-              <h3 style={{fontWeight:"bold", textAlign:"center"}}>Hexanomics</h3>
+              <h3 style={{fontWeight:"bold", textAlign:"center"}}>Blue Orb nomics</h3>
               <img src="img/chart3.png" style={{width:"97%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>

@@ -64,7 +64,7 @@ export default function partnership(props) {
               <div className={classes.container}>
                  <h2 style={{fontWeight:"bold",}}>PARTNERSHIPS</h2>
                  <p> 
-                     Teamwork is a value strongly believed in at Blue orb, we have a long list of firms and people we intend to work with, as well as a few we work with already.
+                     Teamwork is a value strongly believed in at Blue Orb, we have a long list of firms and people we intend to work with, as well as a few we work with already.
                     Arcades and casinos around the world are on our radar, we plan on partnering with as many crypto-receiving game hubs as possible.
                     Professional gamers as brand ambassadors, game developers to be partnered with our team, and a lot more!
                 </p><br/>

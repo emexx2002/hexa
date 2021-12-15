@@ -62,32 +62,31 @@ export default function howitworks(props) {
               </div>
                  
               <div className={classes.container}>
-                 <h2 style={{fontWeight:"bold",}}>HOW Blue orb WORKS </h2>
+                 <h2 style={{fontWeight:"bold",}}>HOW Blue Orb WORKS </h2>
 
                     <h4>Gaming is what we're about;</h4>
 
-                    <p>The whole point of the Blue orb Project, is to further build of the already solid relationship between 
+                    <p>The whole point of the Blue Orb Project, is to further build of the already solid relationship between 
                         crypto currency and gaming. Gaming contests, partnerships with arcades and actual arcade establishments 
-                        are some of the aims of Blue orb.
+                        are some of the aims of Blue Orb.
                     </p>
                     <h3 style={{fontWeight:"bold",}}>Gaming Contests </h3>
-                    <p>Games on telegram group chats have probably never been this pumped, imagine getting a chance to win hundreds of dollars in BNB and Blue orb every month 
+                    <p>Games on telegram group chats have probably never been this pumped, imagine getting a chance to win hundreds of dollars in BNB and Blue Orb every month 
                        -for playing telegram group games!-.<br/> 
-                       We, at Blue orb, also plan to organize periodic, virtual Xbox and PlayStation contests -on a freaking worldwide level!!-
+                       We, at Blue Orb, also plan to organize periodic, virtual Xbox and PlayStation contests -on a freaking worldwide level!!-
 
                         
                     </p>
-                    <h3 style={{fontWeight:"bold",}}>Blue orb Games  </h3>
+                    <h3 style={{fontWeight:"bold",}}>Blue Orb Games  </h3>
                     <p>Our development team, comprised of blockchain developers and game creators, 
-                        are working on Blue orb Community owned P2E games,basically creating premium DApps for the upmost gaming experience. <br/><br/>
-                    Developers outside the official dev. team will also have the chance to create games of their own, and monetize them! (of course, 10% of earnings will be remitted to Blue orb).
+                        are working on Blue Orb Community owned P2E games,basically creating premium DApps for the upmost gaming experience. <br/><br/>
+                    Developers outside the official dev. team will also have the chance to create games of their own, and monetize them! (of course, 10% of earnings will be remitted to Blue Orb).
                         
                     </p>
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
                       <a href="/whitePaper/introduction">Introduction</a>
-                      <a href="/whitePaper/gaming-ecosystem">The Blue orb Gaming Ecosystem</a>
-
+                      <a href="/whitePaper/gaming-ecosystem">The Blue Orb Gaming Ecosystem</a>
                     </div>
                                   
               </div>

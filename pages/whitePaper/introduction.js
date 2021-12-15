@@ -64,7 +64,7 @@ export default function introduction(props) {
               <div className={classes.container}>
                  <h2 style={{fontWeight:"bold",}}>INTRODUCTION </h2>
 
-                    <h4> Blue orb is a new challenger in the GameFi BSC space, offering;</h4>
+                    <h4> Blue Orb is a new challenger in the GameFi BSC space, offering;</h4>
 
                     <p>- Online gaming facilities, fitted with play-to-earn functionalities.<br/>
 
@@ -80,16 +80,16 @@ export default function introduction(props) {
 
                     - A launchpad for gaming projects.<br/>
 
-                    - A game-dev-pad for game developers to build games in the Blue orb ecosystem.<br/><br/>
+                    - A game-dev-pad for game developers to build games in the Blue Orb ecosystem.<br/><br/>
 
 
                     We aim to take playing games, investments and adoption of crypto currency to a much better place.
 
-                    People want to make money, people want to have fun, at Blue orb, we're bringing both, and on one plate!
+                    People want to make money, people want to have fun, at Blue Orb, we're bringing both, and on one plate!
 
                     Gaming has honestly, never been easier and financially tempting as it is now, we plan on capitalizing on that for the benefit of all community members from anywhere and at any time.
 
-                    Blue orb tokens, held and traded with, by community members, in personal wallets and on our gaming app will ensure a healthy growth rate and pave a stable path for our project.</p>
+                    Blue Orb tokens, held and traded with, by community members, in personal wallets and on our gaming app will ensure a healthy growth rate and pave a stable path for our project.</p>
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
                       <a></a>
                       <a href="/whitePaper/how-it-works">How it works</a>

@@ -65,7 +65,7 @@ export default function ico(props) {
                  <h2 style={{fontWeight:"bold",}}>ICO</h2>
                  <p> 
                      Avaibility of funds, drives any good project as far as it can possibly go hence the need 
-                     for we, the Blue orb core team, to include an initial coin offering.
+                     for we, the Blue Orb core team, to include an initial coin offering.
                  </p>
                  <h4>Our ICO will hold in two rounds </h4>
                  <p>
@@ -75,7 +75,7 @@ export default function ico(props) {
                   
                  <h3 style={{fontWeight:"bold",}}>The Private Sale</h3>
                  <p>We'll host a private sale with 0.3% of the total  value of the token for early community members.
-                    The hardcap for this ICO round is 15BNB, members who purchase at the private sale, get their Blue orb Token
+                    The hardcap for this ICO round is 15BNB, members who purchase at the private sale, get their Blue Orb Token
                     at a 20% discount, meaning that upon our listing on pancakeswap, they'll automatically be on a 20% profit, this is an
                     incentive provided to early comminity members.
                  </p>
@@ -96,7 +96,7 @@ export default function ico(props) {
                 </p>
 
                <h3 style={{fontWeight:"bold",}}> Why is only a third of the presale funds going into the liquidity pool? </h3>
-                <p>Very valid question, you see, the thing is, Blue orb isn't built mainly for trading on DEXes, it's a gaming token, meant to serve as currency in our ecosystem, a 500BNB LP is actually great at the start, the rest of the funds have much needed use in areas like marketing, product development and partnerships.</p>
+                <p>Very valid question, you see, the thing is, Blue Orb isn't built mainly for trading on DEXes, it's a gaming token, meant to serve as currency in our ecosystem, a 500BNB LP is actually great at the start, the rest of the funds have much needed use in areas like marketing, product development and partnerships.</p>
                 
                 
                     

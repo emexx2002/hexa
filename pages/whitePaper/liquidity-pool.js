@@ -64,15 +64,15 @@ export default function liquiditypool(props) {
               <div className={classes.container}>
                  <h2 style={{fontWeight:"bold",}}>LIQUIDITY POOL</h2>
                  <p> 
-                 The liquidity pool, a function of utmost importance in the ecosystem, this allows investors to buy or sell Blue orb tokens with speed and convenience. 
+                 The liquidity pool, a function of utmost importance in the ecosystem, this allows investors to buy or sell Blue Orb tokens with speed and convenience. 
                  </p>
                   
                  <h3 style={{fontWeight:"bold",}}>Where's the liquidity coming from? </h3>
-                 <p>Prior to the launch of the Blue orb token, initial liquidity will be established on the PancakeSwap v2 platform, 
+                 <p>Prior to the launch of the Blue Orb token, initial liquidity will be established on the PancakeSwap v2 platform, 
                      the most popular automated market maker DEX on the Binance Smart Chain which, since its launch in 2020, 
                      has no major complaints about the operation of the platform.
                      PancakeSwap has undergone an extensive audit of its business and operations by the cyber security firm CertiK and has been found to be secure. 
-                     PancakeSwap has also integrated CertiK into its platform to offer the following levels of security: Security Oracle, CertiK Shield, DeepSEA and The CertiK Virtual Machine.In order to reduce the impact of the PancakeSwap platform on the Blue orb project, 
+                     PancakeSwap has also integrated CertiK into its platform to offer the following levels of security: Security Oracle, CertiK Shield, DeepSEA and The CertiK Virtual Machine.In order to reduce the impact of the PancakeSwap platform on the Blue Orb project, 
                      in the future it is planned to distribute liquidity to more decentralized exchanges that meet the liquidity security requirements.
                  </p>
                  <h3>Initial Liquidity Lock Period </h3>
@@ -80,7 +80,7 @@ export default function liquiditypool(props) {
                  The last year we have witnessed the unpopular migration of PancakeSwap v1 to v2,
                  with many projects trapped in the old version because they could not transfer liquidity to the new version, 
                  due to too long liquidity lock period, which left an extremely negative impact on many high-potential projects, to the extent that many have ceased to function. 
-                 We, at Blue orb, intend to minimize the above scenario, after the Blue orb launch, the Blue orb / BNB liquidity pool will be locked for a period of 730 days (2 years) from the launch date, which is a sufficient period for investors, 
+                 We, at Blue Orb, intend to minimize the above scenario, after the Blue Orb launch, the Blue Orb / BNB liquidity pool will be locked for a period of 730 days (2 years) from the launch date, which is a sufficient period for investors, 
                  who like and who believe in this unique concept, to gain confidence in the project.
 
                  </p>
