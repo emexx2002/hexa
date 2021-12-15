@@ -92,7 +92,7 @@ function index(props) {
                 As soon as we launch, we'll apply to be listed on Coin Gecko and Coin Market Cap.
                 </Collapsible>
                 <Collapsible  header="Cannot find your question here?">
-                Join our community on <a href="http://t.me/HexaGamersCore">Telegram</a> , feel free to ask every question you have.
+                Join our community on <a href="http://t.me/BlueOrbOfficial">Telegram</a> , feel free to ask every question you have.
                 </Collapsible>
                
             
