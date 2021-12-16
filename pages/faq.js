@@ -63,7 +63,7 @@ function index(props) {
               <h2 style={{fontWeight: "bold"}}>F.A.Q</h2>
                 <Collapsible  header="How and where do I trade?">
                 Upon launch, Pancakeswap will be our preferred swap location. Hopefully, other exchanges will be added in the future.
-                Hit this <a href="#">link</a>  for a concise tutorial on how to use Pancakeswap.
+                Hit this <a href="https://docs.pancakeswap.finance/get-started/connection-guide">link</a>  for a concise tutorial on how to use Pancakeswap.
                 </Collapsible>
                 <Collapsible  header="What are the taxes on transactions?">
                 Every buy/sell has a 12% transaction tax.
