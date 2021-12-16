@@ -1,1 +1,1 @@
-nice work from Hex team
+nice work from Blue Orb team
