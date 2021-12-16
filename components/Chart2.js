@@ -5,11 +5,11 @@ import { Doughnut } from 'react-chartjs-2';
 //ChartJS.register(ArcElement, Tooltip, Legend);
 
  const data = {
-  labels: ['Liquidity 65%', 'Staking Pool 20%', 'Project Development 10%', 'Marketing 5%', ],
+  labels: ['Locked Liquidity 33.3% (500BNB)', 'Partnership and endorsment 11.7% (175BNB)', 'Product Development 50% (750BNB)', 'Marketing campaigns 5% (75BNB)', ],
   datasets: [
     {
       label: '# of Votes',
-      data: [65, 20, 10, 5,],
+      data: [33.3, 11.7, 50, 5,],
       backgroundColor: [
         'rgba(255, 99, 132, 0.8)',
         'rgba(54, 162, 235, 0.8)',

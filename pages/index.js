@@ -51,7 +51,7 @@ function index(props) {
             <div className={classes.brand}>
                 <h1 className={classes.title} style={{fontSize:"7.8vh"}}>Blue Orb Gaming</h1>
                 <h4 >
-                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences, Blue Orb is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
+                Project with crazy potential projections, reflections on every transaction, and insane gaming experiences. Blue Orb is taking over the GameFi arena of the BSC space. Hold tokens and get reflections, play games to win and get jobs on the core team – there is literally no excuse 
                 for not winning here
                 </h4>
                 
@@ -113,7 +113,7 @@ function index(props) {
               <img src="img/chart2.png" style={{width:"95%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>
-              <h3 style={{fontWeight:"bold", textAlign:"center"}}>Blue Orb nomics</h3>
+              <h3 style={{fontWeight:"bold", textAlign:"center"}}>Tokenomics</h3>
               <img src="img/chart3.png" style={{width:"97%", height:"auto"}}/>
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>

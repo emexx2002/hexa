@@ -79,7 +79,7 @@ export default function ico(props) {
                     at a 20% discount, meaning that upon our listing on pancakeswap, they'll automatically be on a 20% profit, this is an
                     incentive provided to early comminity members.
                  </p>
-                 <h3>The Public Sale</h3>
+                 <h3 style={{fontWeight:"bold",}}>The Public Sale</h3>
                  <p>
                      This ICO round is where the big stuff happens, it'll only be availaible to whitelisted wallets for the first  30 
                      minutes after the start, but if the hardcap isn't filled by then (which we highly doubt), then we'll
@@ -102,7 +102,7 @@ export default function ico(props) {
                     
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
-                      <a href="/whitePaper/hexanomis">Hexanomics</a>
+                      <a href="/whitePaper/blueorb-nomis">Tokenomics</a>
                       <a href="/whitePaper/liquidity-pool">Liquidity Pool</a>
 
                     </div>
