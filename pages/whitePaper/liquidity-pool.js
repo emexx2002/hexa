@@ -95,7 +95,7 @@ export default function liquiditypool(props) {
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
                       <a href="/whitePaper/ico">ICO</a>
-                      <a href="/whitePaper/partnership">Partnerships</a>
+                      <a href="/whitePaper/partnerships">Partnerships</a>
 
                     </div>
                                   
