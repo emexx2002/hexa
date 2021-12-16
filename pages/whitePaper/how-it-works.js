@@ -86,7 +86,7 @@ export default function howitworks(props) {
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
                       <a href="/whitePaper/introduction">Introduction</a>
-                      <a href="/whitePaper/gaming-ecosystem" style={{textAlign:"left"}}>The Blue Orb Gaming Ecosystem</a>
+                      <a href="/whitePaper/gaming-ecosystem" style={{textAlign:"right"}}>The Blue Orb Gaming Ecosystem</a>
                     </div>
                                   
               </div>
