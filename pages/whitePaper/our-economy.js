@@ -93,7 +93,7 @@ export default function oureconomy(props) {
 
                     <div style={{display:"flex" , justifyContent:"space-between", marginTop:"30px"}}>
                       <a href="/whitePaper/gaming-ecosystem">The Gaming Ecosystem</a>
-                      <a href="/whitePaper/blueorb-nomics">Blue Orb nomics</a>
+                      <a href="/whitePaper/blueorb-nomics">Tokenomics</a>
 
                     </div>
                                   
