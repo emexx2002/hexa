@@ -77,7 +77,8 @@ function index(props) {
                 </Collapsible>
             
                 <Collapsible  header="Is there a presale?">
-                We intend to hold our presale on PinkSale on the 27th of December 2021 with a 750BNB hard cap (20,000HEXA/BNB), at a price, 10% less than the launch price.. Minimum purchase will be 0.1BNB, maximum purchase will be 2BNB.
+               We intend to hold our presale on PinkSale, on the 29th of December 2021,with a 750BNB softcap,and 1,500BNB hardcap,at a price 10% less than the launchprice.
+               Minimum purchase is 0.075BNB, and the maximum is purchase is 2BNB.  
 
                 </Collapsible>
                 <Collapsible  header="Marketing plans?">
