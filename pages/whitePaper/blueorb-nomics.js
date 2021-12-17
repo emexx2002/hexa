@@ -66,11 +66,11 @@ export default function blueorbnomics(props) {
                      
                      <h3 style={{fontWeight:"bold",}}>Token Distribution</h3>
                      <p>
-                         - Airdrop 10% (5,000,000ORB)<br/>
-                         - Private sale 0.3% (150,000ORB)<br/>
-                         - Consultation 1.7% (8,500,000ORB)<br/>
+                         - Airdrop 10% (10,000,000ORB)<br/>
+                         - Private sale 0.3% (300,000ORB)<br/>
+                         - Consultation 1.7% (17,000,000ORB)<br/>
                          - Presale 30% (30,000,000ORB)<br/>
-                         - Blue Orb Ecosystem development 10% (10,000,000ORB)
+                         - Blue Orb Ecosystem development 10% (10,000,000ORB)<br/>
                          - CEX listing 20% (20,000,000ORB)<br/>
                          - Marketing Wallet 3% (3,000,000ORB)<br/>
                          - DEX liquidity pool 25% (25,000,000ORB)
