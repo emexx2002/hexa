@@ -18,7 +18,7 @@ export default function Sidebar() {
     <h3 style={{fontWeight:"bold", }}>Whitepaper</h3>
         <ul className="doc-nav-list">
             <li ><a href="/whitePaper/introduction" aria-current="page">Introduction</a></li>
-            <li ><a href="/whitePaper/how-it-works">How Hexa Works</a></li>
+            <li ><a href="/whitePaper/how-it-works">How Blue Orb Works</a></li>
             <li ><a href="/whitePaper/gaming-ecosystem">The Blue Orb Gaming Ecosystem</a></li>
             <li ><a href="/whitePaper/our-economy">Our Economy</a></li>
             <li ><a href="/whitePaper/blueorb-nomics">Tokenomics</a></li>
